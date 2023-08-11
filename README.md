@@ -1,2 +1,2 @@
 # Tableau_basic_dashboard  
-A basic dashborad using a sample dataset.   
+A basic dashboard using a sample dataset.   
